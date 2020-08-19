@@ -12,7 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Vivian Nguyen!\n");
-  printf("Undecided\n");
+  printf("Undecided!\n");
   
   return 0;
 }
